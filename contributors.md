@@ -14,5 +14,5 @@
 * [Viraj Jadhav](https://github.com/Virajj28)
 * [Surbhi Kumari](https://github.com/surbhi400)
 * [Subhojeet Das](https://github.com/SubhojeetDas1107)
-
+* [Atanu Nayak](https://github.com/Nayaker)
 
